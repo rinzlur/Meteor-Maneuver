@@ -8,11 +8,11 @@
 -> GameReport.docx outlines the creation process and structure of the program 
 
 2. MeteorManeuver \
--> Source code of the program (use Visual Studio 2022, with MonoGame Framework Installed) \
+-> Source code of the program (use Visual Studio 2022, with MonoGame Framework Installed) 
 
 3. OneClickInstaller
 -> USE THIS TO PLAY THE GAME (Windows) \
--> Setup Wizard will install the game files to your computer, just run 'setup.exe' :) \
+-> Setup Wizard will install the game files to your computer, just run 'setup.exe' :) 
 
 # Notes/Warnings:
 1. The game has been bug tested, and you should not experience bugs 
