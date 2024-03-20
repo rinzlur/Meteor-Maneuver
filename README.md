@@ -10,7 +10,7 @@
 2. MeteorManeuver \
 -> Source code of the program (use Visual Studio 2022, with MonoGame Framework Installed) 
 
-3. OneClickInstaller
+3. OneClickInstaller \
 -> USE THIS TO PLAY THE GAME (Windows) \
 -> Setup Wizard will install the game files to your computer, just run 'setup.exe' :) 
 
