@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid1.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid10.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid11.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid12.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid13.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid14.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid15.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid16.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid2.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid3.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid4.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid5.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid6.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid7.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid8.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/asteroids/Asteroid9.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/fonts/CountDownFont.spritefont</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/fonts/EasyFont.spritefont</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/fonts/EasyFontSelect.spritefont</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/fonts/FileMediumFont.spritefont</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/fonts/FinalScoreFont.spritefont</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/fonts/GameTimerFont.spritefont</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/fonts/HardFont.spritefont</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/fonts/HardFontSelect.spritefont</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/fonts/MediumFontSelect.spritefont</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/fonts/RegularFont.spritefont</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/fonts/SelectedFont.spritefont</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/fonts/TitleFont.spritefont</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/images/background.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/images/background2.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/images/CreditScene.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/images/DifficultySelectionSheet - Copy.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/images/DifficultySelectionSheet.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/images/explosionSheetUpscaled.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/images/LaserSheet.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/images/MissleSheet.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/images/MissleSheetSmall.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/images/ShipSheet.png</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/sounds/explosion1.wav</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/sounds/launch1.wav</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/sounds/MainSong.mp3</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/sounds/select1.wav</File>
+    <File>C:/Users/Will Smith/Desktop/WSFinal/MeteorManeuver/MeteorManeuver/Content/sounds/StartSong.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>fonts/MediumFont.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>images/HelpScene.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MeteorManeuver</id>
+    <version>1.0.0</version>
+    <title>Meteor Maneuver</title>
+    <authors>Will Smith</authors>
+    <description>Package Description</description>
+    <copyright>hyperLITE 2023</copyright>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.1.303" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.WindowsDX" version="3.8.1.303" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/Icon.ico" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid1.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid10.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid11.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid12.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid13.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid14.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid15.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid16.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid2.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid3.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid4.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid5.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid6.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid7.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid8.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/asteroids/Asteroid9.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/fonts/CountDownFont.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/fonts/EasyFont.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/fonts/EasyFontSelect.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/fonts/FinalScoreFont.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/fonts/GameTimerFont.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/fonts/HardFont.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/fonts/HardFontSelect.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/fonts/MediumFont.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/fonts/MediumFontSelect.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/fonts/RegularFont.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/fonts/SelectedFont.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/fonts/TitleFont.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/images/background.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/images/background2.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/images/CreditScene.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/images/DifficultySelectionSheet.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/images/explosionSheetUpscaled.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/images/LaserSheet.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/images/MissleSheet.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/images/MissleSheetSmall.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/images/ShipSheet.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/sounds/explosion1.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/sounds/launch1.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/sounds/MainSong.wma" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/sounds/MainSong.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/sounds/select1.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/sounds/StartSong.wma" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/sounds/StartSong.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Release\net6.0-windows\MeteorManeuver.runtimeconfig.json" target="lib\net6.0-windows7.0\MeteorManeuver.runtimeconfig.json" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Release\net6.0-windows\MeteorManeuver.dll" target="lib\net6.0-windows7.0\MeteorManeuver.dll" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Icon.ico" target="content\Icon.ico" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Icon.ico" target="contentFiles\any\net6.0-windows7.0\Icon.ico" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid1.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid1.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid1.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid1.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid10.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid10.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid10.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid10.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid11.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid11.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid11.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid11.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid12.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid12.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid12.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid12.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid13.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid13.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid13.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid13.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid14.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid14.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid14.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid14.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid15.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid15.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid15.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid15.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid16.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid16.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid16.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid16.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid2.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid2.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid2.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid2.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid3.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid3.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid3.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid3.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid4.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid4.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid4.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid4.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid5.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid5.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid5.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid5.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid6.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid6.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid6.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid6.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid7.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid7.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid7.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid7.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid8.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid8.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid8.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid8.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid9.xnb" target="content\Content\bin\Windows\Content\asteroids\Asteroid9.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\asteroids\Asteroid9.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\asteroids\Asteroid9.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\CountDownFont.xnb" target="content\Content\bin\Windows\Content\fonts\CountDownFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\CountDownFont.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\fonts\CountDownFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\EasyFont.xnb" target="content\Content\bin\Windows\Content\fonts\EasyFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\EasyFont.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\fonts\EasyFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\EasyFontSelect.xnb" target="content\Content\bin\Windows\Content\fonts\EasyFontSelect.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\EasyFontSelect.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\fonts\EasyFontSelect.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\FinalScoreFont.xnb" target="content\Content\bin\Windows\Content\fonts\FinalScoreFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\FinalScoreFont.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\fonts\FinalScoreFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\GameTimerFont.xnb" target="content\Content\bin\Windows\Content\fonts\GameTimerFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\GameTimerFont.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\fonts\GameTimerFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\HardFont.xnb" target="content\Content\bin\Windows\Content\fonts\HardFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\HardFont.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\fonts\HardFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\HardFontSelect.xnb" target="content\Content\bin\Windows\Content\fonts\HardFontSelect.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\HardFontSelect.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\fonts\HardFontSelect.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\MediumFont.xnb" target="content\Content\bin\Windows\Content\fonts\MediumFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\MediumFont.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\fonts\MediumFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\MediumFontSelect.xnb" target="content\Content\bin\Windows\Content\fonts\MediumFontSelect.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\MediumFontSelect.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\fonts\MediumFontSelect.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\RegularFont.xnb" target="content\Content\bin\Windows\Content\fonts\RegularFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\RegularFont.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\fonts\RegularFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\SelectedFont.xnb" target="content\Content\bin\Windows\Content\fonts\SelectedFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\SelectedFont.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\fonts\SelectedFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\TitleFont.xnb" target="content\Content\bin\Windows\Content\fonts\TitleFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\fonts\TitleFont.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\fonts\TitleFont.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\background.xnb" target="content\Content\bin\Windows\Content\images\background.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\background.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\images\background.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\background2.xnb" target="content\Content\bin\Windows\Content\images\background2.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\background2.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\images\background2.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\CreditScene.xnb" target="content\Content\bin\Windows\Content\images\CreditScene.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\CreditScene.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\images\CreditScene.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\DifficultySelectionSheet.xnb" target="content\Content\bin\Windows\Content\images\DifficultySelectionSheet.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\DifficultySelectionSheet.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\images\DifficultySelectionSheet.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\explosionSheetUpscaled.xnb" target="content\Content\bin\Windows\Content\images\explosionSheetUpscaled.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\explosionSheetUpscaled.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\images\explosionSheetUpscaled.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\LaserSheet.xnb" target="content\Content\bin\Windows\Content\images\LaserSheet.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\LaserSheet.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\images\LaserSheet.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\MissleSheet.xnb" target="content\Content\bin\Windows\Content\images\MissleSheet.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\MissleSheet.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\images\MissleSheet.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\MissleSheetSmall.xnb" target="content\Content\bin\Windows\Content\images\MissleSheetSmall.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\MissleSheetSmall.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\images\MissleSheetSmall.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\ShipSheet.xnb" target="content\Content\bin\Windows\Content\images\ShipSheet.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\images\ShipSheet.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\images\ShipSheet.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\sounds\explosion1.xnb" target="content\Content\bin\Windows\Content\sounds\explosion1.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\sounds\explosion1.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\sounds\explosion1.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\sounds\launch1.xnb" target="content\Content\bin\Windows\Content\sounds\launch1.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\sounds\launch1.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\sounds\launch1.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\sounds\MainSong.wma" target="content\Content\bin\Windows\Content\sounds\MainSong.wma" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\sounds\MainSong.wma" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\sounds\MainSong.wma" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\sounds\MainSong.xnb" target="content\Content\bin\Windows\Content\sounds\MainSong.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\sounds\MainSong.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\sounds\MainSong.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\sounds\select1.xnb" target="content\Content\bin\Windows\Content\sounds\select1.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\sounds\select1.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\sounds\select1.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\sounds\StartSong.wma" target="content\Content\bin\Windows\Content\sounds\StartSong.wma" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\sounds\StartSong.wma" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\sounds\StartSong.wma" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\sounds\StartSong.xnb" target="content\Content\bin\Windows\Content\sounds\StartSong.xnb" />
+    <file src="C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\Content\bin\Windows\Content\sounds\StartSong.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\sounds\StartSong.xnb" />
+  </files>
+</package>

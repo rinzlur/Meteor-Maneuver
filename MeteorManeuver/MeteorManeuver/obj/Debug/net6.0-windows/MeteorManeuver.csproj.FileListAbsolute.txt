@@ -1,0 +1,238 @@
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.csproj.AssemblyReference.cache
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.AssemblyInfoInputs.cache
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.AssemblyInfo.cs
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.csproj.CoreCompileInputs.cache
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.exe
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.deps.json
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.runtimeconfig.json
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.pdb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.csproj.CopyComplete
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\refint\MeteorManeuver.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.pdb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.genruntimeconfig.cache
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\ref\MeteorManeuver.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\SelectedFont.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\background.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\TitleFont.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\background2.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\ShipSheet.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\EasyFont.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\EasyFontSelect.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\HardFont.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\HardFontSelect.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\MediumFont.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\MediumFontSelect.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid1.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid10.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid11.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid12.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid13.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid14.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid15.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid16.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid2.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid3.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid4.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid5.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid6.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid7.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid8.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid9.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\CountDownFont.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\GameTimerFont.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\CreditScene.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\MissleSheet.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\MissleSheetSmall.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\FinalScoreFont.xnb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\UserInput.dll
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\UserInput.pdb
+C:\Users\Will Smith\Desktop\School\Game Dev\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\UserInput.dll.config
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid1.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid10.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid11.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid12.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid13.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid14.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid15.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid16.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid2.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid3.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid4.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid5.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid6.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid7.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid8.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid9.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\CountDownFont.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\EasyFont.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\EasyFontSelect.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\FinalScoreFont.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\GameTimerFont.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\HardFont.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\HardFontSelect.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\MediumFont.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\MediumFontSelect.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\SelectedFont.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\TitleFont.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\background.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\background2.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\CreditScene.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\MissleSheet.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\MissleSheetSmall.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\ShipSheet.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.exe
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.deps.json
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.runtimeconfig.json
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.pdb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\UserInput.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\UserInput.pdb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\UserInput.dll.config
+E:\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.csproj.AssemblyReference.cache
+E:\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.AssemblyInfoInputs.cache
+E:\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.AssemblyInfo.cs
+E:\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.csproj.CoreCompileInputs.cache
+E:\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.csproj.CopyComplete
+E:\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\refint\MeteorManeuver.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.pdb
+E:\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.genruntimeconfig.cache
+E:\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\ref\MeteorManeuver.dll
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\LaserSheet.xnb
+E:\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\explosionSheetUpscaled.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid1.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid10.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid11.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid12.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid13.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid14.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid15.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid16.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid2.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid3.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid4.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid5.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid6.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid7.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid8.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\asteroids\Asteroid9.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\CountDownFont.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\EasyFont.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\EasyFontSelect.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\FinalScoreFont.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\GameTimerFont.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\HardFont.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\HardFontSelect.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\MediumFont.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\MediumFontSelect.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\RegularFont.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\SelectedFont.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\fonts\TitleFont.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\background.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\background2.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\CreditScene.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\explosionSheetUpscaled.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\LaserSheet.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\MissleSheet.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\MissleSheetSmall.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\ShipSheet.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.exe
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.deps.json
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.runtimeconfig.json
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.pdb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\UserInput.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\UserInput.pdb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\UserInput.dll.config
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.csproj.AssemblyReference.cache
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.AssemblyInfoInputs.cache
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.AssemblyInfo.cs
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.csproj.CoreCompileInputs.cache
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.csproj.CopyComplete
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\refint\MeteorManeuver.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.pdb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.genruntimeconfig.cache
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\ref\MeteorManeuver.dll
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\images\DifficultySelectionSheet.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\sounds\MainSong.wma
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\sounds\MainSong.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\sounds\select1.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\sounds\explosion1.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\sounds\launch1.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\sounds\StartSong.wma
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\Content\sounds\StartSong.xnb
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.dll.manifest
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\bin\Debug\net6.0-windows\MeteorManeuver.application
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.dll.manifest
+C:\Users\Will Smith\Desktop\Final Project\MeteorManeuver\MeteorManeuver\obj\Debug\net6.0-windows\MeteorManeuver.application
